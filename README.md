@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com">
+  <a href="https://www.linkedin.com/in/tubagus-afif-179316378/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com">
+  <a href="https://www.instagram.com/tubagusafiff/
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
@@ -26,7 +26,7 @@ role: "College Student | Aspiring CS Developer"
 focus_areas: ["Computer Science", "Game Development", "Deliberate Practice", "Self‑Improvement"]
 values: ["Precision", "Consistency", "Truthfulness"]
 currently_learning: "Database systems, algorithmic thinking, and deliberate practice frameworks"
-hobbies: ["Coding", "Competitive Osu!", "5v5 MOBAs", "MMORPGs", "Journaling"]
+hobbies: ["Coding", "Coffee", "Gaming", "Journaling"]
 ```
 
 ---
@@ -64,7 +64,7 @@ Right now, I’m also exploring how to balance leadership, academics, self‑imp
 ---
 
 ## 🎯 Philosophy
-I try to approach everything with intention: whether it’s improving in Osu!, working through ranked games, studying, or writing code. I care about precision, real progress, and understanding myself deeply.
+I try to approach everything with intention: whether working through ranked games, studying, or writing code. I care about precision, real progress, and understanding myself deeply.
 
 Thanks for stopping by.
 
