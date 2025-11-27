@@ -50,15 +50,15 @@ Right now, I’m also exploring how to balance leadership, academics, self‑imp
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tubagusafif25&show_icons=true&theme=default" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tubagusafif25&layout=compact" height="160" />
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/tubagusafif25/tubagusafif25/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
